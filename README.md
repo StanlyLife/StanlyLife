@@ -8,5 +8,5 @@ ___
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-StianHåve-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stianhave/)](https://www.linkedin.com/in/stianhave/)
-[![Instagram Badge](https://img.shields.io/badge/-StianLife-blue?style=?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/Stianlife/)](https://instagram.com/stianlife)
+[![Instagram Badge](https://img.shields.io/badge/-StianLife-blue?style=?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/Stianlife/)](https://instagram.com/stianhave)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=stanlylife)
